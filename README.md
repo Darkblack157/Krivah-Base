@@ -5,7 +5,7 @@
 > Bot **multi-device WhatsApp** com estilo **anime**, leve e poderoso ✨  
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff69b4&center=true&width=900&height=80&lines=KRIVAH+SUPREMACY;Anime+WhatsApp+Bot;Coded+By+Zyntarok" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff69b4&center=true&width=900&height=80&lines=KRIVAH+SUPREMACY;Coded+By+Zyntarok" alt="Typing SVG" />
 </div>
 
 <div align="center">
