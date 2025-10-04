@@ -57,4 +57,8 @@
 
 ---
 
-<div align="center" class="tenor-gif-embed" data-postid="13642329" data-share-method="host" data-aspect-ratio="1.00806" data-width="100%"><a href="https://tenor.com/view/anime-rikka-finger-spin-gif-13642329">Anime Rikka Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media.tenor.com/eeur7VuCbmkAAAAj/anime-rikka.gif" alt="Anime vibes" height="250">
+</div>
+
+
