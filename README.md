@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Anime vibes" height="250">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFvejg2NTViZnRtNWNncnF5eDFsanc3MWNlOGx3NXdqYjBobjU5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iehrY0M6T1jqRmUpaI/giphy.gif" alt="Anime vibes" height="250">
 </div>
 
 ---
@@ -17,8 +17,8 @@
 ## ⚔️ Comandos Disponíveis
 
 <div align="center">
-  <img src="https://img.shields.io/badge/.tagall-Call+All+Members-ff69b4?style=for-the-badge" alt=".tagall"/>
-  <img src="https://img.shields.io/badge/.setprefix-Change+Prefix-1E90FF?style=for-the-badge" alt=".setprefix"/>
+  <img src="https://img.shields.io/badge/.tagall-Call+All+Members-ff69b4?style=for-the-badge" alt="totag"/>
+  <img src="https://img.shields.io/badge/.setprefix-Change+Prefix-1E90FF?style=for-the-badge" alt="setprefix"/>
   <img src="https://img.shields.io/badge/OwnerNumber-Zyntarok-8a2be2?style=for-the-badge" alt="Owner Number"/>
 </div>
 
@@ -34,13 +34,11 @@
 
 ---
 
-## ⚡ Visual Estilo Anime
+## ⚡ Vibe Visual
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Anime Energy" height="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo2Zzg2dG56aHFiYmZieDZhMWsxcXMxOXZkdzl0Zm9ocWp6b2kxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCzUV1BiaRD7lpaljB/giphy.gif" alt="Anime Energy" height="200">
 </div>
-
-> **Neon vibes, efeitos animados e estilo hero card**, perfeito para mostrar no GitHub ✨
 
 ---
 
