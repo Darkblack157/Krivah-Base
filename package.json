@@ -1,0 +1,19 @@
+{
+  "name": "krivah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zyntarok",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc.4",
+    "baileys": "^7.0.0-rc.4",
+    "pino": "^9.12.0"
+  }
+}
