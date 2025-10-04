@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFvejg2NTViZnRtNWNncnF5eDFsanc3MWNlOGx3NXdqYjBobjU5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iehrY0M6T1jqRmUpaI/giphy.gif" alt="Anime vibes" height="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWRnZW80dW00NHQxMTdrdGdzYzNncjA1MnB3aTY0bTJ0cXVyYjk1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" alt="Anime vibes" height="250">
 </div>
 
 ---
@@ -34,10 +34,10 @@
 
 ---
 
-## ⚡ Vibe Visual
+## ⚡ Vibe Anime Visual
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo2Zzg2dG56aHFiYmZieDZhMWsxcXMxOXZkdzl0Zm9ocWp6b2kxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCzUV1BiaRD7lpaljB/giphy.gif" alt="Anime Energy" height="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWRnZW80dW00NHQxMTdrdGdzYzNncjA1MnB3aTY0bTJ0cXVyYjk1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xdgisqRDFyO9G/giphy.gif" alt="Anime Energy" height="200">
 </div>
 
 ---
@@ -58,5 +58,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Anime vibes 2" height="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3R4bDB1eXAzOWV3dXF3eTZtYXhmMDJnbGI3dXFhbmNuOWJxa3ZyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mf4qECoTz8ZVK/giphy.gif" alt="Anime vibes 2" height="150">
 </div>
